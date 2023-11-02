@@ -65,7 +65,7 @@ Sometimes, a clean merge isn’t possible due to conflicting code blocks - these
 
 To get a list of all branches, you can run `git branch` . The current branch will be marked with an asterisk in the list given.
 
-*1.9  Design a restaurant ordering system.*
+*1.9  Design a restaurant ordering system.(10 marks) *
 
 *You do not need to write code, but describe a high-level approach:*
 
