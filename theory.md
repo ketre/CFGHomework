@@ -10,7 +10,7 @@ ZeroDivisionError
 
 *1.3   What is the git command that moves code from the local repository to the remote repository? (1 mark)*
 
-git push
+git push origin main
 
 *1.4 What does NULL represent in a database? (1 mark)*
 
